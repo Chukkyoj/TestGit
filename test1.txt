@@ -1,0 +1,11 @@
+ Volume in drive C is CHUKKY
+ Volume Serial Number is 82F3-1E9F
+
+ Directory of C:\Users\chuks\Desktop\GIT PROJECT
+
+03/03/2024  23:27    <DIR>          .
+03/03/2024  23:26    <DIR>          ..
+03/03/2024  23:27                 0 test1.txt
+03/03/2024  23:27               346 text1.txt
+               2 File(s)            346 bytes
+               2 Dir(s)  260,415,975,424 bytes free
